@@ -1,8 +1,8 @@
 torch
-transformers==4.5.1
+transformers==4.53.0
 torchvision==0.2.1
 tensorboard
-pillow==5.2.0
+pillow==12.1.1
 textdistance
 h5py
 bs4
