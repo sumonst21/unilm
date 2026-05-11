@@ -102,7 +102,7 @@ setup(
         # for OpenAI GPT
         "regex != 2019.12.17",
         # for XLNet
-        "sentencepiece == 0.1.91",
+        "sentencepiece == 0.2.1",
         # for XLM
         "sacremoses",
         # for ndcg
