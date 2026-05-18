@@ -16,7 +16,7 @@ setup(
     install_requires=[
         "transformers==2.9.0",
         "tensorboardX==2.0",
-        "lxml==4.9.1",
+        "lxml==6.1.0",
         "seqeval==0.0.12",
         "Pillow==9.3.0",
     ],
